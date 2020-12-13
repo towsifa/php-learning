@@ -3,6 +3,7 @@ php course
 # Basic Of PHP.
 Basic Variables
 Different Types of Variables
+*String types
 
 ```php
 
@@ -12,6 +13,7 @@ Different Types of Variables
 	var_dump($question);
 	$word = 'age';
 	var_dump($word);
-	```
+	
+```
   
   
