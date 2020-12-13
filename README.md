@@ -2,7 +2,8 @@
 php course
 # Basic Of PHP.
 Basic Variables 
-*Different Types of Variables*
+
+Different Types of Variables
 * String types
 
 ```php
