@@ -8,7 +8,7 @@ Different Types of Variables
 
 ```php
 
-  $name = 'Alif';
+  $name = 'tayeeba';
 	var_dump($name);
 	$question = 'How are you?';
 	var_dump($question);
@@ -16,5 +16,24 @@ Different Types of Variables
 	var_dump($word);
 	
 ```
+* Number Type
+```php
+// Int
+	$age = 16;
+	var_dump($age);
+	// Float or Double
+	$number = 90.4;
+	var_dump($number);
+    ```
+    * Boolean Type
+    ```php
+    // Boolean Type
+	$isPresent = true;
+	var_dump($isPresent);
+    ```
+  * Null
+  * Array
+  *  Object
+  * Resource
   
   
