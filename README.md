@@ -24,16 +24,16 @@ Different Types of Variables
 	// Float or Double
 	$number = 90.4;
 	var_dump($number);
-    ```
+```
     * Boolean Type
     ```php
     // Boolean Type
 	$isPresent = true;
 	var_dump($isPresent);
-    ```
+ ```
   * Null
   * Array
-  *  Object
+  * Object
   * Resource
   
   
